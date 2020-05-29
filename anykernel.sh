@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Oxygen Kernel
+kernel.string=by @IndraDP
 do.devicecheck=1
 do.modules=0
 do.systemless=0
